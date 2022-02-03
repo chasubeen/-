@@ -1,0 +1,7 @@
+﻿  program 6_1.c
+c:\users\doroc\onedrive\바탕 화면\workspace\day16\day16\program 6_1.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\doroc\onedrive\바탕 화면\workspace\day16\day16\program 6_1.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  Day16.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day16\Debug\Day16.exe
+  Day16.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day16\Debug\Day16.pdb (Partial PDB)

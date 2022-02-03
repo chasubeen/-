@@ -1,0 +1,4 @@
+﻿  program8_13.c
+c:\users\doroc\onedrive\바탕 화면\workspace\day25\day25\program8_13.c(4): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Day25.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day25\Debug\Day25.exe
+  Day25.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day25\Debug\Day25.pdb (Partial PDB)

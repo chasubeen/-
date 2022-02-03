@@ -1,0 +1,4 @@
+﻿  program3_9.c
+c:\users\doroc\onedrive\바탕 화면\workspace\day07\day07\program3_9.c(8): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Day07.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day07\Debug\Day07.exe
+  Day07.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\workspace\Day07\Debug\Day07.pdb (Partial PDB)
