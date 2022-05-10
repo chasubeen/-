@@ -1,0 +1,5 @@
+﻿  자가진단8.c
+c:\users\doroc\onedrive\바탕 화면\코딩 test\c언어\정올\함수 2\함수2_re\함수2_re\자가진단8.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  함수2_RE.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\코딩 Test\C언어\정올\함수 2\함수2_RE\Debug\함수2_RE.exe
+  함수2_RE.vcxproj -> C:\Users\doroc\OneDrive\바탕 화면\코딩 Test\C언어\정올\함수 2\함수2_RE\Debug\함수2_RE.pdb (Partial PDB)
