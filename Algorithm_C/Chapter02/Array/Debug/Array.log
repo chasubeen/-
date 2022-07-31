@@ -1,0 +1,5 @@
+﻿  rev_ary.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter2\Array\rev_ary.c(35,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter2\Array\rev_ary.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter2\Array\rev_ary.c(27,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Array.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter2\Debug\Array.exe
