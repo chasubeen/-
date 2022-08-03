@@ -1,0 +1,8 @@
+﻿  IntStack.c
+  IntStackTest.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Stack\IntStackTest.c(9,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Stack\IntStackTest.c(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Stack\IntStackTest.c(22,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Stack\IntStack.c(14): warning C4715: 'Initialize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Stack.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter04\x64\Debug\Stack.exe

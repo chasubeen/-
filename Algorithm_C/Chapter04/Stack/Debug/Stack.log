@@ -1,0 +1,7 @@
+﻿  IntStack.c
+C:\Users\doroc\source\repos\Chapter4\Stack\IntStack.c(14): warning C4715: 'Initialize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  IntStackTest.c
+C:\Users\doroc\source\repos\Chapter4\Stack\IntStackTest.c(9,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\doroc\source\repos\Chapter4\Stack\IntStackTest.c(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\doroc\source\repos\Chapter4\Stack\IntStackTest.c(22,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Stack.vcxproj -> C:\Users\doroc\source\repos\Chapter4\Debug\Stack.exe

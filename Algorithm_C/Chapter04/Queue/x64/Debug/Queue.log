@@ -1,0 +1,4 @@
+﻿  last.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Queue\last.c(14,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Queue\last.c(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Queue.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter04\x64\Debug\Queue.exe
