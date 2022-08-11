@@ -1,0 +1,15 @@
+﻿  IntSetTest2.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter07\Set\IntSetTest2.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter07\Set\IntSetTest2.c(32,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+IntSetTest2.obj : error LNK2019: _Initialize_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _IsMember_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Add_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Remove_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Assign_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Equal_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Union_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Intersection_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Difference_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _PrintLn_main 함수에서 참조되는 확인할 수 없는 외부 기호
+IntSetTest2.obj : error LNK2019: _Terminate_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\waterbean\CodingExercise\Algorithm_C\Chapter07\Debug\Set.exe : fatal error LNK1120: 11개의 확인할 수 없는 외부 참조입니다.
