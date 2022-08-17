@@ -1,0 +1,7 @@
+﻿  CircDblLinkedListTest.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter09\CircularList\CircDblLinkedListTest.c(30,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CircleDblLinkedList.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter09\CircularList\CircleDblLinkedList.c(15,16): warning C4090: '=': 'const' 한정자가 서로 다릅니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter09\CircularList\CircleDblLinkedList.c(16,16): warning C4090: '=': 'const' 한정자가 서로 다릅니다.
+  코드를 생성하고 있습니다...
+  CircularList.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter09\Debug\CircularList.exe
