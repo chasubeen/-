@@ -1,0 +1,5 @@
+﻿  BinTree.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter10\Tree\BinTree.c(15,16): warning C4090: '=': 'const' 한정자가 서로 다릅니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter10\Tree\BinTree.c(16,18): warning C4090: '=': 'const' 한정자가 서로 다릅니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter10\Tree\BinTree.c(30): warning C4715: 'Search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Tree.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter10\Debug\Tree.exe
