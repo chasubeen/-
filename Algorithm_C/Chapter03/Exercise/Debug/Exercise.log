@@ -1,0 +1,6 @@
+﻿  ex5.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter03\Exercise\ex5.c(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter03\Exercise\ex5.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter03\Exercise\ex5.c(42,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter03\Exercise\ex5.c(46,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercise.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter03\Debug\Exercise.exe
