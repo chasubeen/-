@@ -1,0 +1,8 @@
+﻿  ex5.c
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Exercise\ex5.c(9,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Exercise\ex5.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Exercise\ex5.c(24,27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\waterbean\CodingExercise\Algorithm_C\Chapter04\Exercise\ex5.c(49,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  IntQueue.c
+  코드를 생성하고 있습니다...
+  Exercise.vcxproj -> C:\waterbean\CodingExercise\Algorithm_C\Chapter04\x64\Debug\Exercise.exe
